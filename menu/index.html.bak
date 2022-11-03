@@ -220,21 +220,21 @@
  <div class="container py-5">
     <div class="row">
         <div class="col-xs-12 col-g-4 ">
-            <h3 class="text-center">Cold Drinks</h3>
+            <h3 class="text-center">Hot Meals</h3>
             <hr class="accent my-2">
         </div>
-        <div class="card-columns col-xs-12 col-g-4">
-            <div class="card card-body col-xs-12 col-g-4">
-                <h6 class="text-truncate">STILL WATER	€3</h6>
-				<p class="small">Irish still water.</p>
+        <div class="card-columns">
+            <div class="card card-body">
+                <h6 class="text-truncate">Chicken Curry	€10</h6>
+				<p class="small">Strips of chicken in a creamy coconut sauce and served with naan bread and a choice of basmati, plain or fried rice.
             </div>
 			<div class="card card-body">
-                <h6 class="text-truncate">SOFT DRINKS	€3</h6>
-                <p class="small">Coke, 7UP, Fanta, Sprite, Coke Zero, Diet Coke.</p>
+                <h6 class="text-truncate">LASANGA	€10</h6>
+                <p class="small">Beef Lasanga in a tomato and basil sauce topped with mozzerella and served with garlic bread and a fresh garden salad.</p>
 			</div>
             <div class="card card-body"> 
-                <h6 class="text-truncate">SPARKLING WATER	€3</h6>
-				<p class="small">French Sparkling water.</p>
+                <h6 class="text-truncate">BEEF STROGANOFF	€10</h6>
+				<p class="small">Slow cooked Irish beef strips in a rich and creamy white wine sauce topped with parsley and roast mushrooms.</p>
 			</div>
             <div class="card card-body">
                 <h6 class="text-truncate">FRUIT JUICES	€3</h6>

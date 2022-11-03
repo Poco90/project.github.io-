@@ -17,29 +17,21 @@ background-image: url("../images/coffee2.jpg");
 .h3{
 	color:white;
 }
-.card card-body{
-	background-color: white;
-}
+
 	
 .text-truncate{
-	color:#b36e0e;
+	/* color:#b36e0e; */
 }
 
-.float-right font-weight-bold{
-	color:red;
+.card-columns{
+background-color: white;
 }
 
-.card card-body{
-    background-color: red;
-		text-align: center;
-	     /* color:yellow; */
-}
-.container py-5{
-	/* background-color: yellow; */
-	
+.card-body{
+background-color: white;
 }
 
-.col-xs-12 col-g-6{
-	/* background-color: #a87932; */
-	
-}
+
+
+
+

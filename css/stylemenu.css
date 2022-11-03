@@ -20,17 +20,18 @@ background-image: url("../images/coffee2.jpg");
 
 	
 .text-truncate{
-	color:#b36e0e;
+	/* color:#b36e0e; */
 }
 
-.float-right font-weight-bold{
-	color:red;
+.card-columns{
+background-color: #F7DFC0;
 }
 
-.card card-body{
-    background-color: red;
-		text-align: center;
-	     /* color:yellow; */
+.card-body{
+background-color: white;
 }
+
+
+
 
 
