@@ -223,8 +223,8 @@
             <h3 class="text-center">Cold Drinks</h3>
             <hr class="accent my-2">
         </div>
-        <div class="card-columns">
-            <div class="card card-body">
+        <div class="card-columns col-xs-12 col-g-4">
+            <div class="card card-body col-xs-12 col-g-4">
                 <h6 class="text-truncate">STILL WATER	€3</h6>
 				<p class="small">Irish still water.</p>
             </div>
