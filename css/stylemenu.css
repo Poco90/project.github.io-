@@ -14,9 +14,9 @@ background-color: white;
 	     /* display: block; */
     float: right;
 }
-.h3{
-	color:white;
-}
+/* .h3{ */
+	/* color:white; */
+/* } */
 
 	
 .text-truncate{
@@ -27,13 +27,52 @@ background-color: white;
 background-color: #F7DFC0;
 }
 
-.card-body{
+.col-sm-4{
 background-color: white;
+}
+.card-title{
+color: blue;
+}
+/* Flaired edges */
+
+.style2 {
+	border-top: 3px double #8c8b8b;
 }
 
-.class{
-background-color: white;
+/* .container-fluid{ */
+	/* background-color: #F7DFC0; */
+/* } */
+
+hr.style-seven {
+    overflow: visible; /* For IE */
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
 }
+hr.style-seven:before { /* Not really supposed to work, but does */
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+
+/* Gradient transparent - color - transparent */
+
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+
+
+
 
 
 
