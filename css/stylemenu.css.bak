@@ -24,10 +24,14 @@ background-image: url("../images/coffee2.jpg");
 }
 
 .card-columns{
-background-color: white;
+background-color: #F7DFC0;
 }
 
 .card-body{
+background-color: white;
+}
+
+.class{
 background-color: white;
 }
 

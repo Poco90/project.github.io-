@@ -61,7 +61,7 @@
                 
                 <!--ROW1-->
                 <div class="row">
-				       <div class="col-lg-10 mx-auto col-12 text-center mb-4">
+				       <div class="col-lg-12 mx-auto col-12 text-center mb-4">
             <h1 class="mt-0">Our Menu</h1>
             <h2 class="lead">Our philosophy is simple: you will get the best cup of coffee every time you visit our stores. You can chose from our unique blend of 100% Fairtrade coffee which is specially roasted for us weekly or our Voyager Dual Origin Medium Roast coffee. The shorter the time between roasting and serving, the fresher, smoother and fuller flavoured the taste. We are constantly on the lookout for new and exciting ideas to help us improve our range, offering customers the widest selection possible.</h2> 
 			<!-- Blurb copied from insonmia website -->
@@ -234,7 +234,7 @@
 			</div>
             <div class="card card-body"> 
                 <h6 class="text-truncate">BEEF STROGANOFF	€10</h6>
-				<p class="small">Slow cooked Irish beef strips in a rich and creamy white wine sauce topped with parsley and roast mushrooms.</p>
+				<p class="small">Slow cooked Irish beef strips in a rich and creamy white wine sauce topped with parsley and roast mushrooms. Served with potato or rice.</p>
 			</div>
             <div class="card card-body">
                 <h6 class="text-truncate">FRUIT JUICES	€3</h6>
