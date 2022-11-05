@@ -7,41 +7,28 @@ background-color: #F7DFC0;
 opacity: 0.85;
 color:black;
 background-color: white;
-/* font-weight: 900; */
-/* background-image: url("../images/coffee2.jpg"); */
-    /* width:100%; */
-    height: 200px;
-	     /* display: block; */
-    float: right;
+height: 200px;
+float: right;
 }
-/* .h3{ */
-	/* color:white; */
-/* } */
+.card{
+background-color:#F8F9FA:
+}
 
-	
-.text-truncate{
-	/* color:#b36e0e; */
-}
 
 .card-columns{
 background-color: #F7DFC0;
 }
 
 .col-sm-4{
-background-color: white;
+background-color: #F8F9FA;
 }
 .card-title{
 color: blue;
 }
-/* Flaired edges */
 
 .style2 {
 	border-top: 3px double #8c8b8b;
 }
-
-/* .container-fluid{ */
-	/* background-color: #F7DFC0; */
-/* } */
 
 hr.style-seven {
     overflow: visible; /* For IE */
@@ -62,12 +49,38 @@ hr.style-seven:before { /* Not really supposed to work, but does */
     border-radius: 20px;
 }
 
-/* Gradient transparent - color - transparent */
 
 hr.style-two {
     border: 0;
     height: 1px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+/* Sizes the carousel images. They were too big before */
+.carousel-inner img {
+  height: 32rem;
+  width : 75%; /* or 100% */
+}
+
+
+/* Gnerates the line either side of h2 */
+h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+}
+
+h2:after, h2:before {
+  content: '';
+  width: 150px;
+  height: 2px;
+  background: blue;
+  margin: 0 10px;
+}
+
+.navbar{
+	background-color: #F7DFC0;
 }
 
 
