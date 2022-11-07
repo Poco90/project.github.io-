@@ -29,8 +29,8 @@ h2{
 }
 
 .carousel {
-	max-width: 90%;
-	max-height: 90%;
+	max-width: 100%;
+	max-height: 1000%;
   }
 
 .carousel-item{
