@@ -20,21 +20,3 @@ h2{
 	height: 200px;
 
 }
-
-#myForm{
-	text-align: left;
-}
-#contactUsCarousel{
-	size: auto;
-}
-
-.carousel {
-	max-width: 100%;
-	max-height: 1000%;
-  }
-
-.carousel-item{
-	transition-delay: 2s;
-	transition-duration: 2s;
-	transition: all;
-}
