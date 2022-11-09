@@ -81,34 +81,34 @@
         </div>
 		
 	<!-- Carousel -->
-	<div id="carousel" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
+	<div id="carousel" class="carousel" data-bs-ride="carousel">
+  <div class="carousel-inner d-none d-lg-block">
+    <div class="carousel-item active hidden-xs">
       <img src="..\images\coffee.jpg" class="d-block w-100" alt="...">
 	          <div class="carousel-caption d-none d-md-block">
           <h1>Coffee</h1>
         </div>
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item hidden-xs">
       <img src="..\images\BLT.webp
 	  " class="d-block w-100" alt="...">
 		  <div class="carousel-caption d-none d-md-block">
           <h1>BLT</h1>
         </div>
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item hidden-xs">
       <img src="..\images\fac.jpg" class="d-block w-100" alt="...">
 	  	  <div class="carousel-caption d-none d-md-block">
           <h2>Fish & Chips</h2>
         </div>
     </div>
-	    <div class="carousel-item">
+	    <div class="carousel-item hidden-xs">
       <img src="..\images\chilli.jpg" class="d-block w-100" alt="...">
 	  <div class="carousel-caption d-none d-md-block">
           <h2>Chilli con Carne</h2>
         </div>
     </div>
-	    <div class="carousel-item">
+	    <div class="carousel-item hidden-xs">
       <img src="..\images\scone.jpg" class="d-block w-100" alt="...">
 	  <div class="carousel-caption d-none d-md-block">
           <h2>Fruit Scone</h2>
