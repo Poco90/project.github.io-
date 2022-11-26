@@ -14,17 +14,20 @@ body{
 h2{
     padding: 50px 0;
 }
-/* .w-100{      W-100 changed to w-auto */ 
-  /* width: 100% !important; */
-  /* height: 100vh; */
-/* } */
-
-p{
-	color:black;
-	font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+.header{
+background-color: #eeee;
+border-style: solid;
+border-color: rgb(99, 49, 49);
+border-radius: 20px;
+padding: 20px;
 }
-
-h1{
-	color:black;
-	font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+.left{
+    text-align: left;
+}
+.right{
+	text-align: right;
+	}
+img {
+	border-style: solid;
+	border-color: gainsboro;	
 }

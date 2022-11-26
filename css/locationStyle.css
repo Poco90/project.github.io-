@@ -16,6 +16,9 @@ h2{
 }
 .header{
 background-color: #eeee;
+border-style: solid;
+border-color: rgb(99, 49, 49);
+border-radius: 20px;
 }
 .left{
     text-align: left;
@@ -23,3 +26,7 @@ background-color: #eeee;
 .right{
 	text-align: right;
 	}
+img {
+	border-style: solid;
+	border-color: gainsboro;	
+}
