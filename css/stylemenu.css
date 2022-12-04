@@ -1,8 +1,8 @@
 body{
 	background-color: #eeee;
 	background-image:url(../images/aboutUsBackGround.png);
-	background-repeat: no-repeat;
-	background-size: cover;
+	background-repeat: space repeat;
+	background-size: 100%;
 	text-align: center;
 	color:black;
 }
