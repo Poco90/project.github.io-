@@ -15,7 +15,7 @@
           <!-- Project Nav Bar, to be shared on all pages, hyperlinks and ACTIVE must be changed on each page -->
             <nav class="navbar navbar-expand-lg bg-light">
                 <div class="container-fluid">
-                  <a class="navbar-brand" href="#">Bean-CO</a>
+                  <a class="navbar-brand" href="..\images\logo.jpg">Bean-CO</a>
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                   </button>
@@ -90,19 +90,7 @@
 
     </div>
 	<!-- Another New Row -->
-	    <div class="row" >
-                  <div class="col-lg-6 col-xs-12"  style="float:none;margin:auto;">
-          <h1 class="display-6">Hot Dish Choices</h1>
-          <p class="lead">Beef &amp; Guinness Casserole--Chicken a La King--Beef Chilli Con Carne</p>
-        </div>
-		
 
-    <div class="col-lg-6 col-xs-12">
-                       <!-- <div class="col-lg-6"> -->
-      <img class="w-auto shadow" src="..\images\wedding.jpg" />
-    </div>
-
-    </div>
 	
 	
 
